@@ -187,3 +187,5 @@ python 05_app.py --image "C:\photos\example.jpg"
 
 - [MediaPipe Face Landmarker Python 공식 문서](https://ai.google.dev/edge/mediapipe/solutions/vision/face_landmarker/python)
 - [TorchVision EfficientNet-B0 공식 문서](https://docs.pytorch.org/vision/stable/models/generated/torchvision.models.efficientnet_b0.html)
+#   y a w m 1  
+ 
