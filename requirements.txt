@@ -1,0 +1,9 @@
+# Python 3.11 / 3.12 권장. 새 가상환경에서 설치하세요.
+# GPU PyTorch는 README의 공식 설치 링크 참고. CPU도 실행 가능.
+torch>=2.6,<3
+torchvision>=0.21,<1
+mediapipe>=0.10.21,<2
+opencv-contrib-python>=4.10,<6
+Pillow>=10,<13
+numpy>=1.26,<3
+matplotlib>=3.8,<4

@@ -1,0 +1,169 @@
+﻿group_id,size,splits,labels,paths
+0,66,test|train,no_yawn|yawn,train\no_yawn\1061.jpg ; train\no_yawn\1062.jpg ; train\no_yawn\1068.jpg ; train\no_yawn\1069.jpg ; train\no_yawn\1073.jpg ; train\no_yawn\1074.jpg ; train\no_yawn\1097.jpg ; train\no_yawn\1098.jpg ; train\no_yawn\1128.jpg ; train\no_yawn\1130.jpg
+1,31,test|train,no_yawn|yawn,train\no_yawn\411.jpg ; train\no_yawn\412.jpg ; train\no_yawn\416.jpg ; train\no_yawn\417.jpg ; train\no_yawn\420.jpg ; train\no_yawn\431.jpg ; train\no_yawn\432.jpg ; train\no_yawn\433.jpg ; train\no_yawn\435.jpg ; train\no_yawn\436.jpg
+2,29,test|train,no_yawn|yawn,train\no_yawn\1201.jpg ; train\no_yawn\1202.jpg ; train\no_yawn\1203.jpg ; train\no_yawn\1208.jpg ; train\no_yawn\1209.jpg ; train\no_yawn\1210.jpg ; train\no_yawn\1214.jpg ; train\no_yawn\2008.jpg ; train\no_yawn\2009.jpg ; train\no_yawn\2010.jpg
+3,28,test|train,no_yawn|yawn,train\no_yawn\1003.jpg ; train\no_yawn\980.jpg ; train\no_yawn\981.jpg ; train\no_yawn\982.jpg ; train\no_yawn\983.jpg ; train\no_yawn\987.jpg ; train\no_yawn\988.jpg ; train\no_yawn\991.jpg ; train\no_yawn\992.jpg ; train\no_yawn\993.jpg
+4,26,test|train,no_yawn|yawn,train\no_yawn\2496.jpg ; train\no_yawn\2499.jpg ; train\no_yawn\2513.jpg ; train\no_yawn\2516.jpg ; train\no_yawn\2517.jpg ; train\no_yawn\2518.jpg ; train\no_yawn\2519.jpg ; train\no_yawn\2547.jpg ; train\no_yawn\2549.jpg ; train\no_yawn\2550.jpg
+5,23,test|train,no_yawn|yawn,train\no_yawn\1006.jpg ; train\no_yawn\1008.jpg ; train\no_yawn\1009.jpg ; train\no_yawn\1021.jpg ; train\no_yawn\1028.jpg ; train\no_yawn\1029.jpg ; train\no_yawn\1030.jpg ; train\no_yawn\1031.jpg ; train\no_yawn\1032.jpg ; train\no_yawn\1034.jpg
+6,23,test|train,no_yawn|yawn,train\no_yawn\1487.jpg ; train\no_yawn\1492.jpg ; train\no_yawn\1493.jpg ; train\no_yawn\1496.jpg ; train\no_yawn\1497.jpg ; train\no_yawn\1498.jpg ; train\no_yawn\1499.jpg ; train\no_yawn\1500.jpg ; train\no_yawn\1503.jpg ; train\no_yawn\1507.jpg
+7,22,test|train,yawn,train\yawn\10.jpg ; train\yawn\11.jpg ; train\yawn\12.jpg ; train\yawn\13.jpg ; train\yawn\15.jpg ; train\yawn\16.jpg ; train\yawn\17.jpg ; train\yawn\18.jpg ; train\yawn\19.jpg ; train\yawn\20.jpg
+8,21,test|train,no_yawn|yawn,train\no_yawn\141.jpg ; train\no_yawn\142.jpg ; train\no_yawn\144.jpg ; train\no_yawn\145.jpg ; train\no_yawn\146.jpg ; train\no_yawn\147.jpg ; train\no_yawn\148.jpg ; train\no_yawn\149.jpg ; train\yawn\101.jpg ; train\yawn\103.jpg
+9,19,test|train,yawn,train\yawn\394.jpg ; train\yawn\395.jpg ; train\yawn\396.jpg ; train\yawn\397.jpg ; train\yawn\398.jpg ; train\yawn\399.jpg ; train\yawn\400.jpg ; train\yawn\401.jpg ; train\yawn\402.jpg ; train\yawn\403.jpg
+10,18,test|train,no_yawn|yawn,train\no_yawn\828.jpg ; train\no_yawn\829.jpg ; train\no_yawn\831.jpg ; train\no_yawn\833.jpg ; train\yawn\284.jpg ; train\yawn\285.jpg ; train\yawn\287.jpg ; train\yawn\288.jpg ; train\yawn\289.jpg ; train\yawn\290.jpg
+11,17,test|train,no_yawn,train\no_yawn\481.jpg ; train\no_yawn\482.jpg ; train\no_yawn\483.jpg ; train\no_yawn\488.jpg ; train\no_yawn\490.jpg ; train\no_yawn\501.jpg ; train\no_yawn\502.jpg ; train\no_yawn\505.jpg ; train\no_yawn\507.jpg ; train\no_yawn\509.jpg
+12,17,test|train,no_yawn|yawn,train\no_yawn\557.jpg ; train\no_yawn\558.jpg ; train\no_yawn\560.jpg ; train\no_yawn\571.jpg ; train\no_yawn\572.jpg ; train\no_yawn\573.jpg ; train\no_yawn\578.jpg ; train\no_yawn\579.jpg ; train\no_yawn\580.jpg ; train\yawn\226.jpg
+13,16,test|train,no_yawn|yawn,train\no_yawn\217.jpg ; train\no_yawn\218.jpg ; train\no_yawn\219.jpg ; train\no_yawn\221.jpg ; train\no_yawn\223.jpg ; train\no_yawn\224.jpg ; train\no_yawn\225.jpg ; train\no_yawn\226.jpg ; train\no_yawn\229.jpg ; train\no_yawn\231.jpg
+14,15,train,no_yawn|yawn,train\no_yawn\1374.jpg ; train\no_yawn\1376.jpg ; train\no_yawn\1378.jpg ; train\no_yawn\1411.jpg ; train\no_yawn\1412.jpg ; train\no_yawn\1413.jpg ; train\yawn\413.jpg ; train\yawn\414.jpg ; train\yawn\415.jpg ; train\yawn\416.jpg
+15,15,test|train,no_yawn|yawn,train\no_yawn\1460.jpg ; train\no_yawn\1461.jpg ; train\no_yawn\1462.jpg ; train\no_yawn\1463.jpg ; train\no_yawn\1464.jpg ; train\yawn\436.jpg ; train\yawn\437.jpg ; train\yawn\438.jpg ; train\yawn\439.jpg ; train\yawn\440.jpg
+16,15,test|train,no_yawn|yawn,train\no_yawn\1816.jpg ; train\no_yawn\1817.jpg ; train\no_yawn\1820.jpg ; train\no_yawn\1851.jpg ; train\no_yawn\1852.jpg ; train\no_yawn\1856.jpg ; train\no_yawn\1857.jpg ; train\no_yawn\1859.jpg ; train\yawn\514.jpg ; train\yawn\515.jpg
+17,15,test|train,no_yawn|yawn,train\no_yawn\238.jpg ; train\no_yawn\253.jpg ; train\no_yawn\254.jpg ; train\no_yawn\255.jpg ; train\no_yawn\256.jpg ; train\no_yawn\257.jpg ; train\no_yawn\259.jpg ; train\yawn\146.jpg ; train\yawn\147.jpg ; train\yawn\149.jpg
+18,15,train,yawn,train\yawn\26.jpg ; train\yawn\27.jpg ; train\yawn\28.jpg ; train\yawn\29.jpg ; train\yawn\30.jpg ; train\yawn\31.jpg ; train\yawn\32.jpg ; train\yawn\33.jpg ; train\yawn\34.jpg ; train\yawn\35.jpg
+19,14,test|train,no_yawn|yawn,train\no_yawn\1981.jpg ; train\no_yawn\1982.jpg ; train\no_yawn\1986.jpg ; train\no_yawn\1987.jpg ; train\no_yawn\1988.jpg ; train\no_yawn\1989.jpg ; train\no_yawn\1990.jpg ; train\no_yawn\2001.jpg ; train\yawn\537.jpg ; train\yawn\539.jpg
+20,14,train,no_yawn|yawn,train\no_yawn\2216.jpg ; train\no_yawn\2217.jpg ; train\no_yawn\2220.jpg ; train\no_yawn\2221.jpg ; train\no_yawn\2222.jpg ; train\no_yawn\2223.jpg ; train\no_yawn\2224.jpg ; train\no_yawn\2228.jpg ; train\no_yawn\2229.jpg ; train\no_yawn\2230.jpg
+21,14,test|train,no_yawn|yawn,train\no_yawn\2350.jpg ; train\no_yawn\2356.jpg ; train\no_yawn\2357.jpg ; train\no_yawn\2358.jpg ; train\no_yawn\2371.jpg ; train\no_yawn\2373.jpg ; train\no_yawn\2374.jpg ; train\yawn\607.jpg ; train\yawn\608.jpg ; train\yawn\609.jpg
+22,14,test|train,no_yawn|yawn,train\no_yawn\2403.jpg ; train\no_yawn\2404.jpg ; train\no_yawn\2407.jpg ; train\no_yawn\2409.jpg ; train\no_yawn\2410.jpg ; train\no_yawn\2426.jpg ; train\no_yawn\2427.jpg ; train\no_yawn\2428.jpg ; train\no_yawn\2429.jpg ; train\yawn\614.jpg
+23,14,test|train,yawn,train\yawn\468.jpg ; train\yawn\469.jpg ; train\yawn\470.jpg ; train\yawn\471.jpg ; train\yawn\472.jpg ; train\yawn\473.jpg ; train\yawn\474.jpg ; train\yawn\475.jpg ; train\yawn\476.jpg ; train\yawn\478.jpg
+24,13,test|train,no_yawn|yawn,train\no_yawn\1864.jpg ; train\no_yawn\1867.jpg ; train\no_yawn\1870.jpg ; train\no_yawn\1871.jpg ; train\no_yawn\1874.jpg ; train\no_yawn\1876.jpg ; train\no_yawn\1878.jpg ; train\no_yawn\1879.jpg ; train\no_yawn\1880.jpg ; train\yawn\522.jpg
+25,13,test|train,no_yawn|yawn,train\no_yawn\2108.jpg ; train\no_yawn\2109.jpg ; train\no_yawn\2121.jpg ; train\no_yawn\2124.jpg ; train\no_yawn\2126.jpg ; train\no_yawn\2129.jpg ; train\yawn\576.jpg ; train\yawn\577.jpg ; train\yawn\578.jpg ; train\yawn\579.jpg
+26,13,train,no_yawn|yawn,train\no_yawn\2151.jpg ; train\no_yawn\2152.jpg ; train\no_yawn\2153.jpg ; train\no_yawn\2154.jpg ; train\no_yawn\2156.jpg ; train\no_yawn\2157.jpg ; train\no_yawn\2158.jpg ; train\no_yawn\2159.jpg ; train\no_yawn\2160.jpg ; train\yawn\583.jpg
+27,13,test|train,no_yawn|yawn,train\no_yawn\2296.jpg ; train\no_yawn\2297.jpg ; train\no_yawn\2298.jpg ; train\no_yawn\2299.jpg ; train\no_yawn\2300.jpg ; train\no_yawn\2312.jpg ; train\no_yawn\2313.jpg ; train\yawn\597.jpg ; train\yawn\598.jpg ; train\yawn\599.jpg
+28,13,test|train,no_yawn|yawn,train\no_yawn\2571.jpg ; train\no_yawn\2572.jpg ; train\no_yawn\2573.jpg ; train\no_yawn\2574.jpg ; train\no_yawn\2580.jpg ; train\no_yawn\2581.jpg ; train\no_yawn\2582.jpg ; train\no_yawn\2583.jpg ; train\yawn\704.jpg ; train\yawn\705.jpg
+29,13,test|train,no_yawn|yawn,train\no_yawn\312.jpg ; train\no_yawn\313.jpg ; train\no_yawn\314.jpg ; train\no_yawn\315.jpg ; train\no_yawn\316.jpg ; train\no_yawn\317.jpg ; train\no_yawn\318.jpg ; train\no_yawn\332.jpg ; train\no_yawn\333.jpg ; train\no_yawn\336.jpg
+30,13,test|train,no_yawn|yawn,train\no_yawn\51.jpg ; train\no_yawn\54.jpg ; train\no_yawn\56.jpg ; train\yawn\44.jpg ; train\yawn\45.jpg ; train\yawn\46.jpg ; train\yawn\48.jpg ; train\yawn\50.jpg ; train\yawn\51.jpg ; train\yawn\52.jpg
+31,13,test|train,no_yawn|yawn,train\no_yawn\542.jpg ; train\no_yawn\543.jpg ; train\no_yawn\546.jpg ; train\no_yawn\547.jpg ; train\no_yawn\552.jpg ; train\yawn\221.jpg ; train\yawn\222.jpg ; train\yawn\223.jpg ; train\yawn\224.jpg ; train\yawn\225.jpg
+32,13,test|train,no_yawn|yawn,train\no_yawn\773.jpg ; train\no_yawn\775.jpg ; train\no_yawn\778.jpg ; train\no_yawn\780.jpg ; train\no_yawn\781.jpg ; train\no_yawn\782.jpg ; train\no_yawn\786.jpg ; train\no_yawn\787.jpg ; train\yawn\276.jpg ; train\yawn\277.jpg
+33,12,test|train,no_yawn|yawn,train\no_yawn\1038.jpg ; train\no_yawn\1039.jpg ; train\no_yawn\1042.jpg ; train\no_yawn\1046.jpg ; train\no_yawn\1047.jpg ; train\yawn\339.jpg ; train\yawn\340.jpg ; train\yawn\341.jpg ; train\yawn\342.jpg ; train\yawn\343.jpg
+34,12,test|train,no_yawn|yawn,train\no_yawn\1567.jpg ; train\no_yawn\1571.jpg ; train\no_yawn\1572.jpg ; train\no_yawn\1573.jpg ; train\no_yawn\1574.jpg ; train\no_yawn\1576.jpg ; train\yawn\464.jpg ; train\yawn\467.jpg ; test\no_yawn\1566.jpg ; test\no_yawn\1570.jpg
+35,12,test|train,no_yawn,train\no_yawn\1932.jpg ; train\no_yawn\1933.jpg ; train\no_yawn\1934.jpg ; train\no_yawn\1936.jpg ; train\no_yawn\1937.jpg ; train\no_yawn\1938.jpg ; train\no_yawn\1948.jpg ; train\no_yawn\1949.jpg ; test\no_yawn\1942.jpg ; test\no_yawn\1946.jpg
+36,12,train,no_yawn|yawn,train\no_yawn\2241.jpg ; train\no_yawn\2244.jpg ; train\no_yawn\2246.jpg ; train\no_yawn\2247.jpg ; train\no_yawn\2250.jpg ; train\no_yawn\2251.jpg ; train\no_yawn\2252.jpg ; train\no_yawn\2253.jpg ; train\no_yawn\2254.jpg ; train\no_yawn\2259.jpg
+37,12,test|train,no_yawn|yawn,train\no_yawn\635.jpg ; train\no_yawn\639.jpg ; train\no_yawn\640.jpg ; train\no_yawn\641.jpg ; train\no_yawn\645.jpg ; train\no_yawn\647.jpg ; train\no_yawn\648.jpg ; train\yawn\247.jpg ; train\yawn\250.jpg ; test\no_yawn\646.jpg
+38,12,test|train,no_yawn|yawn,train\no_yawn\72.jpg ; train\no_yawn\73.jpg ; train\no_yawn\76.jpg ; train\no_yawn\77.jpg ; train\no_yawn\78.jpg ; train\no_yawn\79.jpg ; train\yawn\65.jpg ; train\yawn\66.jpg ; train\yawn\67.jpg ; train\yawn\68.jpg
+39,12,test|train,yawn,train\yawn\110.jpg ; train\yawn\112.jpg ; train\yawn\113.jpg ; train\yawn\114.jpg ; train\yawn\115.jpg ; train\yawn\117.jpg ; train\yawn\118.jpg ; train\yawn\120.jpg ; test\yawn\111.jpg ; test\yawn\116.jpg
+40,12,test|train,yawn,train\yawn\153.jpg ; train\yawn\154.jpg ; train\yawn\155.jpg ; train\yawn\156.jpg ; train\yawn\157.jpg ; train\yawn\158.jpg ; train\yawn\159.jpg ; train\yawn\161.jpg ; train\yawn\162.jpg ; train\yawn\163.jpg
+41,12,test|train,yawn,train\yawn\252.jpg ; train\yawn\253.jpg ; train\yawn\254.jpg ; train\yawn\255.jpg ; train\yawn\256.jpg ; train\yawn\258.jpg ; train\yawn\260.jpg ; train\yawn\261.jpg ; train\yawn\262.jpg ; train\yawn\263.jpg
+42,12,test|train,yawn,train\yawn\452.jpg ; train\yawn\453.jpg ; train\yawn\454.jpg ; train\yawn\456.jpg ; train\yawn\457.jpg ; train\yawn\458.jpg ; train\yawn\459.jpg ; train\yawn\460.jpg ; train\yawn\462.jpg ; train\yawn\463.jpg
+43,12,test|train,yawn,train\yawn\716.jpg ; train\yawn\717.jpg ; train\yawn\718.jpg ; train\yawn\722.jpg ; train\yawn\723.jpg ; train\yawn\724.jpg ; train\yawn\726.jpg ; test\yawn\715.jpg ; test\yawn\719.jpg ; test\yawn\720.jpg
+44,11,test|train,no_yawn|yawn,train\no_yawn\111.jpg ; train\no_yawn\112.jpg ; train\no_yawn\114.jpg ; train\no_yawn\117.jpg ; train\yawn\82.jpg ; train\yawn\83.jpg ; train\yawn\85.jpg ; test\no_yawn\113.jpg ; test\no_yawn\115.jpg ; test\yawn\81.jpg
+45,11,test|train,no_yawn|yawn,train\no_yawn\1357.jpg ; train\no_yawn\1359.jpg ; train\no_yawn\1362.jpg ; train\no_yawn\1369.jpg ; train\no_yawn\1370.jpg ; train\no_yawn\1371.jpg ; train\yawn\390.jpg ; train\yawn\392.jpg ; train\yawn\393.jpg ; test\no_yawn\1367.jpg
+46,11,train,no_yawn|yawn,train\no_yawn\1447.jpg ; train\no_yawn\1448.jpg ; train\no_yawn\1449.jpg ; train\no_yawn\1450.jpg ; train\no_yawn\1451.jpg ; train\yawn\430.jpg ; train\yawn\431.jpg ; train\yawn\432.jpg ; train\yawn\433.jpg ; train\yawn\434.jpg
+47,11,test|train,no_yawn|yawn,train\no_yawn\1627.jpg ; train\no_yawn\1629.jpg ; train\no_yawn\1630.jpg ; train\no_yawn\1642.jpg ; train\no_yawn\1647.jpg ; train\yawn\483.jpg ; train\yawn\484.jpg ; train\yawn\485.jpg ; test\no_yawn\1641.jpg ; test\no_yawn\1643.jpg
+48,11,test|train,no_yawn|yawn,train\no_yawn\201.jpg ; train\no_yawn\202.jpg ; train\no_yawn\206.jpg ; train\no_yawn\208.jpg ; train\no_yawn\212.jpg ; train\no_yawn\213.jpg ; train\yawn\133.jpg ; train\yawn\135.jpg ; test\no_yawn\205.jpg ; test\no_yawn\211.jpg
+49,11,test|train,no_yawn|yawn,train\no_yawn\2066.jpg ; train\no_yawn\2067.jpg ; train\no_yawn\2068.jpg ; train\no_yawn\2069.jpg ; train\no_yawn\2070.jpg ; train\no_yawn\2071.jpg ; train\no_yawn\2074.jpg ; train\yawn\560.jpg ; train\yawn\561.jpg ; train\yawn\562.jpg
+50,11,test|train,no_yawn|yawn,train\no_yawn\2470.jpg ; train\no_yawn\2471.jpg ; train\yawn\631.jpg ; train\yawn\633.jpg ; train\yawn\634.jpg ; train\yawn\635.jpg ; train\yawn\636.jpg ; train\yawn\637.jpg ; train\yawn\638.jpg ; test\yawn\630.jpg
+51,11,test|train,no_yawn|yawn,train\no_yawn\2474.jpg ; train\no_yawn\2476.jpg ; train\no_yawn\2477.jpg ; train\no_yawn\2478.jpg ; train\no_yawn\2479.jpg ; train\no_yawn\2483.jpg ; train\no_yawn\2484.jpg ; train\yawn\661.jpg ; train\yawn\663.jpg ; test\no_yawn\2482.jpg
+52,11,test|train,no_yawn|yawn,train\no_yawn\2532.jpg ; train\no_yawn\2534.jpg ; train\no_yawn\2536.jpg ; train\no_yawn\2537.jpg ; train\no_yawn\2538.jpg ; train\no_yawn\2539.jpg ; train\no_yawn\2540.jpg ; train\yawn\673.jpg ; train\yawn\674.jpg ; train\yawn\675.jpg
+53,11,test|train,no_yawn|yawn,train\no_yawn\613.jpg ; train\no_yawn\615.jpg ; train\no_yawn\617.jpg ; train\no_yawn\618.jpg ; train\no_yawn\619.jpg ; train\no_yawn\623.jpg ; train\yawn\236.jpg ; train\yawn\237.jpg ; train\yawn\238.jpg ; test\no_yawn\616.jpg
+54,11,test|train,no_yawn|yawn,train\no_yawn\918.jpg ; train\no_yawn\919.jpg ; train\no_yawn\931.jpg ; train\no_yawn\932.jpg ; train\no_yawn\933.jpg ; train\yawn\314.jpg ; train\yawn\315.jpg ; train\yawn\316.jpg ; train\yawn\317.jpg ; test\yawn\318.jpg
+55,11,test|train,yawn,train\yawn\54.jpg ; train\yawn\55.jpg ; train\yawn\56.jpg ; train\yawn\57.jpg ; train\yawn\58.jpg ; train\yawn\59.jpg ; train\yawn\60.jpg ; train\yawn\62.jpg ; train\yawn\64.jpg ; test\yawn\61.jpg
+56,11,test|train,yawn,train\yawn\639.jpg ; train\yawn\640.jpg ; train\yawn\641.jpg ; train\yawn\642.jpg ; train\yawn\643.jpg ; train\yawn\644.jpg ; train\yawn\645.jpg ; train\yawn\648.jpg ; train\yawn\650.jpg ; train\yawn\651.jpg
+57,11,test|train,yawn,train\yawn\677.jpg ; train\yawn\679.jpg ; train\yawn\680.jpg ; train\yawn\682.jpg ; train\yawn\683.jpg ; train\yawn\684.jpg ; train\yawn\685.jpg ; train\yawn\687.jpg ; test\yawn\678.jpg ; test\yawn\681.jpg
+58,10,test|train,no_yawn|yawn,train\no_yawn\1261.jpg ; train\no_yawn\1266.jpg ; train\no_yawn\1269.jpg ; train\no_yawn\1270.jpg ; train\yawn\376.jpg ; train\yawn\377.jpg ; train\yawn\378.jpg ; test\no_yawn\1267.jpg ; test\no_yawn\1268.jpg ; test\yawn\379.jpg
+59,10,test|train,no_yawn|yawn,train\no_yawn\1318.jpg ; train\no_yawn\1319.jpg ; train\no_yawn\1320.jpg ; train\no_yawn\1322.jpg ; train\no_yawn\1324.jpg ; train\yawn\383.jpg ; train\yawn\384.jpg ; test\no_yawn\1323.jpg ; test\yawn\385.jpg ; test\yawn\386.jpg
+60,10,test|train,no_yawn|yawn,train\no_yawn\1736.jpg ; train\no_yawn\1738.jpg ; train\no_yawn\1740.jpg ; train\yawn\502.jpg ; train\yawn\503.jpg ; train\yawn\504.jpg ; train\yawn\506.jpg ; train\yawn\507.jpg ; train\yawn\508.jpg ; test\yawn\505.jpg
+61,10,train,no_yawn|yawn,train\no_yawn\1963.jpg ; train\no_yawn\1964.jpg ; train\no_yawn\1966.jpg ; train\no_yawn\1967.jpg ; train\yawn\531.jpg ; train\yawn\532.jpg ; train\yawn\533.jpg ; train\yawn\534.jpg ; train\yawn\535.jpg ; train\yawn\536.jpg
+62,10,test|train,no_yawn|yawn,train\no_yawn\2341.jpg ; train\no_yawn\2342.jpg ; train\no_yawn\2343.jpg ; train\no_yawn\2344.jpg ; train\yawn\603.jpg ; train\yawn\604.jpg ; train\yawn\605.jpg ; test\no_yawn\2346.jpg ; test\yawn\602.jpg ; test\yawn\606.jpg
+63,10,test|train,no_yawn|yawn,train\no_yawn\837.jpg ; train\no_yawn\851.jpg ; train\no_yawn\852.jpg ; train\no_yawn\853.jpg ; train\no_yawn\854.jpg ; train\yawn\297.jpg ; train\yawn\298.jpg ; train\yawn\299.jpg ; train\yawn\300.jpg ; test\no_yawn\840.jpg
+64,9,train,no_yawn,train\no_yawn\1.jpg ; train\no_yawn\2.jpg ; train\no_yawn\3.jpg ; train\no_yawn\4.jpg ; train\no_yawn\5.jpg ; train\no_yawn\6.jpg ; train\no_yawn\7.jpg ; train\no_yawn\8.jpg ; train\no_yawn\9.jpg
+65,9,test|train,no_yawn,train\no_yawn\1592.jpg ; train\no_yawn\1593.jpg ; train\no_yawn\1597.jpg ; train\no_yawn\1598.jpg ; train\no_yawn\1599.jpg ; train\no_yawn\1600.jpg ; train\no_yawn\1611.jpg ; test\no_yawn\1594.jpg ; test\no_yawn\1596.jpg
+66,9,train,no_yawn|yawn,train\no_yawn\1648.jpg ; train\no_yawn\1651.jpg ; train\no_yawn\1652.jpg ; train\no_yawn\1653.jpg ; train\yawn\488.jpg ; train\yawn\489.jpg ; train\yawn\490.jpg ; train\yawn\491.jpg ; train\yawn\492.jpg
+67,9,train,no_yawn|yawn,train\no_yawn\1689.jpg ; train\no_yawn\1690.jpg ; train\no_yawn\1701.jpg ; train\yawn\493.jpg ; train\yawn\494.jpg ; train\yawn\495.jpg ; train\yawn\496.jpg ; train\yawn\497.jpg ; train\yawn\498.jpg
+68,9,train,no_yawn|yawn,train\no_yawn\1706.jpg ; train\no_yawn\1707.jpg ; train\no_yawn\1708.jpg ; train\no_yawn\1711.jpg ; train\no_yawn\1712.jpg ; train\no_yawn\1714.jpg ; train\yawn\499.jpg ; train\yawn\500.jpg ; train\yawn\501.jpg
+69,9,test|train,no_yawn|yawn,train\no_yawn\2086.jpg ; train\no_yawn\2087.jpg ; train\no_yawn\2091.jpg ; train\no_yawn\2092.jpg ; train\yawn\573.jpg ; train\yawn\574.jpg ; train\yawn\575.jpg ; test\no_yawn\2090.jpg ; test\no_yawn\2093.jpg
+70,9,test|train,no_yawn|yawn,train\no_yawn\25.jpg ; train\no_yawn\27.jpg ; train\no_yawn\28.jpg ; train\yawn\41.jpg ; train\yawn\42.jpg ; train\yawn\43.jpg ; test\no_yawn\24.jpg ; test\no_yawn\26.jpg ; test\no_yawn\29.jpg
+71,9,test|train,yawn,train\yawn\301.jpg ; train\yawn\302.jpg ; train\yawn\303.jpg ; train\yawn\304.jpg ; train\yawn\307.jpg ; train\yawn\308.jpg ; train\yawn\309.jpg ; train\yawn\310.jpg ; test\yawn\305.jpg
+72,9,test|train,yawn,train\yawn\549.jpg ; train\yawn\550.jpg ; train\yawn\552.jpg ; train\yawn\553.jpg ; train\yawn\555.jpg ; test\yawn\547.jpg ; test\yawn\548.jpg ; test\yawn\551.jpg ; test\yawn\554.jpg
+73,9,test|train,yawn,train\yawn\653.jpg ; train\yawn\654.jpg ; train\yawn\655.jpg ; train\yawn\656.jpg ; train\yawn\657.jpg ; train\yawn\658.jpg ; train\yawn\659.jpg ; train\yawn\660.jpg ; test\yawn\652.jpg
+74,8,test|train,no_yawn,train\no_yawn\1111.jpg ; train\no_yawn\1116.jpg ; train\no_yawn\1117.jpg ; train\no_yawn\1120.jpg ; train\no_yawn\1121.jpg ; train\no_yawn\1122.jpg ; test\no_yawn\1114.jpg ; test\no_yawn\1118.jpg
+75,8,train,no_yawn|yawn,train\no_yawn\1326.jpg ; train\no_yawn\1327.jpg ; train\no_yawn\1332.jpg ; train\no_yawn\1333.jpg ; train\no_yawn\1334.jpg ; train\yawn\387.jpg ; train\yawn\388.jpg ; train\yawn\389.jpg
+76,8,test|train,no_yawn,train\no_yawn\2282.jpg ; train\no_yawn\2283.jpg ; train\no_yawn\2284.jpg ; train\no_yawn\2286.jpg ; train\no_yawn\2287.jpg ; train\no_yawn\2288.jpg ; train\no_yawn\2290.jpg ; test\no_yawn\2289.jpg
+77,8,test|train,no_yawn|yawn,train\no_yawn\292.jpg ; train\no_yawn\293.jpg ; train\no_yawn\295.jpg ; train\no_yawn\299.jpg ; train\yawn\165.jpg ; train\yawn\166.jpg ; train\yawn\167.jpg ; test\no_yawn\291.jpg
+78,8,test|train,no_yawn|yawn,train\no_yawn\466.jpg ; train\no_yawn\467.jpg ; train\no_yawn\469.jpg ; train\yawn\210.jpg ; train\yawn\211.jpg ; train\yawn\212.jpg ; test\no_yawn\461.jpg ; test\no_yawn\470.jpg
+79,8,test|train,no_yawn|yawn,train\no_yawn\725.jpg ; train\no_yawn\726.jpg ; train\no_yawn\729.jpg ; train\no_yawn\733.jpg ; train\yawn\270.jpg ; train\yawn\271.jpg ; train\yawn\272.jpg ; test\no_yawn\728.jpg
+80,8,test|train,no_yawn|yawn,train\no_yawn\93.jpg ; train\no_yawn\98.jpg ; train\no_yawn\99.jpg ; train\yawn\77.jpg ; train\yawn\78.jpg ; train\yawn\79.jpg ; train\yawn\80.jpg ; test\no_yawn\91.jpg
+81,8,test|train,yawn,train\yawn\178.jpg ; train\yawn\179.jpg ; train\yawn\180.jpg ; train\yawn\181.jpg ; train\yawn\182.jpg ; train\yawn\183.jpg ; train\yawn\184.jpg ; test\yawn\177.jpg
+82,8,train,yawn,train\yawn\696.jpg ; train\yawn\697.jpg ; train\yawn\698.jpg ; train\yawn\699.jpg ; train\yawn\700.jpg ; train\yawn\701.jpg ; train\yawn\702.jpg ; train\yawn\703.jpg
+83,8,test|train,yawn,train\yawn\87.jpg ; train\yawn\88.jpg ; train\yawn\89.jpg ; train\yawn\90.jpg ; train\yawn\91.jpg ; train\yawn\92.jpg ; train\yawn\93.jpg ; test\yawn\86.jpg
+84,7,train,no_yawn|yawn,train\no_yawn\2130.jpg ; train\no_yawn\2131.jpg ; train\no_yawn\2132.jpg ; train\no_yawn\2133.jpg ; train\no_yawn\2134.jpg ; train\no_yawn\2136.jpg ; train\yawn\581.jpg
+85,7,test|train,no_yawn,train\no_yawn\2196.jpg ; train\no_yawn\2198.jpg ; train\no_yawn\2199.jpg ; train\no_yawn\2200.jpg ; train\no_yawn\2201.jpg ; train\no_yawn\2202.jpg ; test\no_yawn\2197.jpg
+86,7,test|train,no_yawn|yawn,train\no_yawn\2584.jpg ; train\no_yawn\2586.jpg ; train\no_yawn\2589.jpg ; train\no_yawn\2603.jpg ; train\no_yawn\2604.jpg ; train\yawn\714.jpg ; test\no_yawn\2590.jpg
+87,7,train,no_yawn,train\no_yawn\371.jpg ; train\no_yawn\372.jpg ; train\no_yawn\373.jpg ; train\no_yawn\375.jpg ; train\no_yawn\378.jpg ; train\no_yawn\379.jpg ; train\no_yawn\380.jpg
+88,7,test|train,no_yawn|yawn,train\no_yawn\683.jpg ; train\no_yawn\689.jpg ; train\no_yawn\701.jpg ; train\no_yawn\703.jpg ; train\yawn\268.jpg ; train\yawn\269.jpg ; test\no_yawn\702.jpg
+89,7,test|train,no_yawn|yawn,train\no_yawn\758.jpg ; train\no_yawn\760.jpg ; train\yawn\273.jpg ; train\yawn\274.jpg ; train\yawn\275.jpg ; test\no_yawn\755.jpg ; test\no_yawn\756.jpg
+90,7,test|train,yawn,train\yawn\185.jpg ; train\yawn\186.jpg ; train\yawn\187.jpg ; train\yawn\190.jpg ; train\yawn\191.jpg ; test\yawn\188.jpg ; test\yawn\189.jpg
+91,7,test|train,yawn,train\yawn\241.jpg ; train\yawn\242.jpg ; train\yawn\243.jpg ; train\yawn\244.jpg ; train\yawn\245.jpg ; train\yawn\246.jpg ; test\yawn\240.jpg
+92,7,train,yawn,train\yawn\419.jpg ; train\yawn\420.jpg ; train\yawn\421.jpg ; train\yawn\422.jpg ; train\yawn\424.jpg ; train\yawn\425.jpg ; train\yawn\426.jpg
+93,7,train,yawn,train\yawn\70.jpg ; train\yawn\71.jpg ; train\yawn\72.jpg ; train\yawn\73.jpg ; train\yawn\74.jpg ; train\yawn\75.jpg ; train\yawn\76.jpg
+94,6,train,no_yawn,train\no_yawn\2461.jpg ; train\no_yawn\2462.jpg ; train\no_yawn\2463.jpg ; train\no_yawn\2464.jpg ; train\no_yawn\2466.jpg ; train\no_yawn\2467.jpg
+95,6,test|train,no_yawn,train\no_yawn\601.jpg ; train\no_yawn\602.jpg ; train\no_yawn\606.jpg ; train\no_yawn\607.jpg ; train\no_yawn\612.jpg ; test\no_yawn\603.jpg
+96,6,train,no_yawn|yawn,train\no_yawn\652.jpg ; train\no_yawn\657.jpg ; train\no_yawn\658.jpg ; train\no_yawn\682.jpg ; train\yawn\264.jpg ; train\yawn\267.jpg
+97,6,test|train,no_yawn,train\no_yawn\897.jpg ; train\no_yawn\899.jpg ; train\no_yawn\911.jpg ; test\no_yawn\896.jpg ; test\no_yawn\898.jpg ; test\no_yawn\900.jpg
+98,6,test|train,yawn,train\yawn\123.jpg ; train\yawn\124.jpg ; train\yawn\126.jpg ; train\yawn\129.jpg ; train\yawn\130.jpg ; test\yawn\122.jpg
+99,6,train,yawn,train\yawn\171.jpg ; train\yawn\172.jpg ; train\yawn\173.jpg ; train\yawn\174.jpg ; train\yawn\175.jpg ; train\yawn\176.jpg
+100,6,train,yawn,train\yawn\192.jpg ; train\yawn\193.jpg ; train\yawn\194.jpg ; train\yawn\195.jpg ; train\yawn\196.jpg ; train\yawn\197.jpg
+101,5,train,no_yawn,train\no_yawn\174.jpg ; train\no_yawn\175.jpg ; train\no_yawn\176.jpg ; train\no_yawn\177.jpg ; train\no_yawn\179.jpg
+102,5,train,no_yawn|yawn,train\no_yawn\1783.jpg ; train\no_yawn\1784.jpg ; train\no_yawn\1803.jpg ; train\no_yawn\1804.jpg ; train\yawn\512.jpg
+103,5,test|train,no_yawn,train\no_yawn\1911.jpg ; train\no_yawn\1914.jpg ; train\no_yawn\1916.jpg ; train\no_yawn\1931.jpg ; test\no_yawn\1913.jpg
+104,5,test|train,no_yawn,train\no_yawn\2056.jpg ; train\no_yawn\2057.jpg ; train\no_yawn\2058.jpg ; train\no_yawn\2062.jpg ; test\no_yawn\2059.jpg
+105,5,test|train,no_yawn,train\no_yawn\2430.jpg ; train\no_yawn\2432.jpg ; train\no_yawn\2433.jpg ; train\no_yawn\2434.jpg ; test\no_yawn\2431.jpg
+106,5,test|train,no_yawn,train\no_yawn\271.jpg ; train\no_yawn\277.jpg ; train\no_yawn\278.jpg ; train\no_yawn\279.jpg ; test\no_yawn\276.jpg
+107,5,test|train,yawn,train\yawn\139.jpg ; train\yawn\141.jpg ; train\yawn\142.jpg ; train\yawn\143.jpg ; test\yawn\140.jpg
+108,5,train,yawn,train\yawn\279.jpg ; train\yawn\280.jpg ; train\yawn\281.jpg ; train\yawn\282.jpg ; train\yawn\283.jpg
+109,5,test|train,yawn,train\yawn\708.jpg ; train\yawn\710.jpg ; train\yawn\712.jpg ; test\yawn\709.jpg ; test\yawn\711.jpg
+110,4,train,no_yawn,train\no_yawn\1537.jpg ; train\no_yawn\1538.jpg ; train\no_yawn\1541.jpg ; train\no_yawn\1542.jpg
+111,4,test|train,no_yawn,train\no_yawn\1893.jpg ; train\no_yawn\1899.jpg ; train\no_yawn\1900.jpg ; test\no_yawn\1898.jpg
+112,4,test|train,no_yawn,train\no_yawn\2606.jpg ; train\no_yawn\2609.jpg ; train\no_yawn\2610.jpg ; test\no_yawn\2607.jpg
+113,4,train,no_yawn,train\no_yawn\788.jpg ; train\no_yawn\791.jpg ; train\no_yawn\792.jpg ; train\no_yawn\793.jpg
+114,4,test|train,yawn,train\yawn\556.jpg ; train\yawn\557.jpg ; train\yawn\558.jpg ; test\yawn\559.jpg
+115,4,train,yawn,train\yawn\565.jpg ; train\yawn\566.jpg ; train\yawn\567.jpg ; train\yawn\568.jpg
+116,4,train,yawn,train\yawn\626.jpg ; train\yawn\627.jpg ; train\yawn\628.jpg ; train\yawn\629.jpg
+117,4,train,yawn,train\yawn\669.jpg ; train\yawn\670.jpg ; train\yawn\671.jpg ; train\yawn\672.jpg
+118,3,test|train,no_yawn|yawn,train\no_yawn\1788.jpg ; train\no_yawn\1802.jpg ; test\yawn\511.jpg
+119,3,train,no_yawn|yawn,train\no_yawn\681.jpg ; train\yawn\265.jpg ; train\yawn\266.jpg
+120,3,train,yawn,train\yawn\1.jpg ; train\yawn\2.jpg ; train\yawn\3.jpg
+121,3,train,yawn,train\yawn\311.jpg ; train\yawn\312.jpg ; train\yawn\313.jpg
+122,3,test|train,yawn,train\yawn\358.jpg ; train\yawn\359.jpg ; test\yawn\357.jpg
+123,3,train,yawn,train\yawn\569.jpg ; train\yawn\571.jpg ; train\yawn\572.jpg
+124,3,test|train,yawn,train\yawn\623.jpg ; train\yawn\624.jpg ; test\yawn\622.jpg
+125,3,test|train,yawn,train\yawn\94.jpg ; train\yawn\96.jpg ; test\yawn\95.jpg
+126,2,train,Closed,train\Closed\_154.jpg ; train\Closed\_271.jpg
+127,2,train,Closed,train\Closed\_155.jpg ; train\Closed\_272.jpg
+128,2,train,Closed,train\Closed\_183.jpg ; train\Closed\_196.jpg
+129,2,train,Closed,train\Closed\_198.jpg ; train\Closed\_631.jpg
+130,2,train,Closed,train\Closed\_229.jpg ; train\Closed\_73.jpg
+131,2,train,Closed,train\Closed\_249.jpg ; train\Closed\_251.jpg
+132,2,test|train,Closed,train\Closed\_258.jpg ; test\Closed\_260.jpg
+133,2,train,Closed,train\Closed\_262.jpg ; train\Closed\_518.jpg
+134,2,train,Closed,train\Closed\_282.jpg ; train\Closed\_69.jpg
+135,2,train,Closed,train\Closed\_368.jpg ; train\Closed\_641.jpg
+136,2,train,Closed,train\Closed\_406.jpg ; train\Closed\_676.jpg
+137,2,test|train,Closed,train\Closed\_418.jpg ; test\Closed\_416.jpg
+138,2,test|train,Closed,train\Closed\_511.jpg ; test\Closed\_242.jpg
+139,2,train,Closed,train\Closed\_56.jpg ; train\Closed\_62.jpg
+140,2,test|train,Closed,train\Closed\_560.jpg ; test\Closed\_64.jpg
+141,2,train,Closed,train\Closed\_571.jpg ; train\Closed\_572.jpg
+142,2,test|train,no_yawn,train\no_yawn\1559.jpg ; test\no_yawn\1558.jpg
+143,2,train,no_yawn,train\no_yawn\2327.jpg ; train\no_yawn\2349.jpg
+144,2,train,no_yawn,train\no_yawn\659.jpg ; train\no_yawn\660.jpg
+145,2,test|train,no_yawn,train\no_yawn\867.jpg ; test\no_yawn\866.jpg
+146,2,test|train,no_yawn,train\no_yawn\957.jpg ; test\no_yawn\958.jpg
+147,2,train,Open,train\Open\_122.jpg ; train\Open\_351.jpg
+148,2,train,Open,train\Open\_142.jpg ; train\Open\_683.jpg
+149,2,train,Open,train\Open\_229.jpg ; train\Open\_312.jpg
+150,2,train,Open,train\Open\_235.jpg ; train\Open\_647.jpg
+151,2,test|train,Open,train\Open\_285.jpg ; test\Open\_137.jpg
+152,2,train,Open,train\Open\_289.jpg ; train\Open\_684.jpg
+153,2,train,Open,train\Open\_29.jpg ; train\Open\_577.jpg
+154,2,train,Open,train\Open\_293.jpg ; train\Open\_691.jpg
+155,2,train,Open,train\Open\_297.jpg ; train\Open\_692.jpg
+156,2,train,Open,train\Open\_613.jpg ; train\Open\_690.jpg
+157,2,train,Open,train\Open\_669.jpg ; train\Open\_670.jpg
+158,2,train,Open,train\Open\_709.jpg ; train\Open\_90.jpg
+159,2,test|train,yawn,train\yawn\128.jpg ; test\yawn\127.jpg
+160,2,test|train,yawn,train\yawn\132.jpg ; test\yawn\131.jpg
+161,2,test|train,yawn,train\yawn\144.jpg ; test\yawn\145.jpg
+162,2,train,yawn,train\yawn\486.jpg ; train\yawn\487.jpg
+163,2,test|train,yawn,train\yawn\524.jpg ; test\yawn\527.jpg
+164,2,train,yawn,train\yawn\612.jpg ; train\yawn\613.jpg
+165,2,train,yawn,train\yawn\618.jpg ; train\yawn\620.jpg
+166,2,test,Open,test\Open\_506.jpg ; test\Open\_718.jpg
+167,2,test,yawn,test\yawn\234.jpg ; test\yawn\235.jpg
