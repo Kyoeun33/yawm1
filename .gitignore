@@ -1,0 +1,23 @@
+# Python virtual environments
+.venv/
+.venv-*/
+.venv_*/
+venv/
+venv-*/
+venv_*/
+env/
+env-*/
+env_*/
+
+# Installed packages and generated Python files
+**/site-packages/
+__pycache__/
+*.py[cod]
+
+# Native libraries and other large binary artifacts
+*.pyd
+*.dll
+
+# JavaScript dependencies
+node_modules/
+
