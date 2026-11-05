@@ -1,0 +1,51 @@
+{
+  "n": 1006,
+  "accuracy": 0.9990059642147118,
+  "macro_f1": 0.9990055308695673,
+  "per_class": {
+    "no_yawn": {
+      "precision": 0.9980544747081712,
+      "recall": 1.0,
+      "f1": 0.9990262901655307,
+      "support": 513
+    },
+    "yawn": {
+      "precision": 1.0,
+      "recall": 0.9979716024340771,
+      "f1": 0.9989847715736041,
+      "support": 493
+    }
+  },
+  "confusion_matrix": [
+    [
+      513,
+      0
+    ],
+    [
+      1,
+      492
+    ]
+  ],
+  "total_input": 1016,
+  "detected": 1006,
+  "unknown": 10,
+  "detection_coverage": 0.9901574803149606,
+  "correct_over_all_inputs": 0.9891732283464567,
+  "failure_counts": {
+    "no_face": 10
+  },
+  "coverage_by_class": {
+    "no_yawn": {
+      "total": 515,
+      "detected": 513,
+      "coverage": 0.996116504854369,
+      "correctly_classified_over_all": 0.996116504854369
+    },
+    "yawn": {
+      "total": 501,
+      "detected": 493,
+      "coverage": 0.9840319361277445,
+      "correctly_classified_over_all": 0.9820359281437125
+    }
+  }
+}

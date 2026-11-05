@@ -6,16 +6,16 @@
 
 | 파일 | 역할 |
 |---|---|
-| `01_audit_data.py` | 기존 파일 그대로: 이미지 검사 |
-| `02_prepare.py` | 기존 파일 그대로: 중복 정리·그룹 분할·224×224 패딩 |
+| `01-01_audit_data.py` | 기존 파일 그대로: 이미지 검사 |
+| `01-02_prepare.py` | 기존 파일 그대로: 중복 정리·그룹 분할·224×224 패딩 |
 | `common.py` | 기존 전처리 공통 함수 유지 |
-| `02b_extract_mouth.py` | **추가**: 기존 분할에서 입 주변 추출·PNG/CSV 저장 |
-| `03_train.py` | ImageNet 사전학습 EfficientNet-B0를 하품 이진 분류로 전이학습 |
-| `04_evaluate.py` | train/val/test 및 별도 원본 사진 평가, 실패율·오분류 저장 |
-| `05_app.py` / `app.py` | Streamlit 없이 OpenCV 창에서 로컬 웹캠 실행 |
+| `01-02b_extract_mouth.py` | **추가**: 기존 분할에서 입 주변 추출·PNG/CSV 저장 |
+| `01-03_train.py` | ImageNet 사전학습 EfficientNet-B0를 하품 이진 분류로 전이학습 |
+| `01-04_evaluate.py` | train/val/test 및 별도 원본 사진 평가, 실패율·오분류 저장 |
+| `01-05_app.py` / `app.py` | Streamlit 없이 OpenCV 창에서 로컬 웹캠 실행 |
 | `yawn_common.py` | 새 입 추출·모델 입력·체크포인트·시간 판정 공통 코드 |
 
-`02_prepare.py`의 데이터 삭제·분할 동작도 원래 그대로입니다. 이미 `data/processed`가 있다면 **01·02는 다시 실행할 필요가 없습니다.** 새 단계는 기존 파일을 읽기만 합니다.
+`01-02_prepare.py`의 데이터 삭제·분할 동작도 원래 그대로입니다. 이미 `data/processed`가 있다면 **01·02는 다시 실행할 필요가 없습니다.** 새 단계는 기존 파일을 읽기만 합니다.
 
 ## 1. 설치
 
@@ -187,5 +187,6 @@ python 05_app.py --image "C:\photos\example.jpg"
 
 - [MediaPipe Face Landmarker Python 공식 문서](https://ai.google.dev/edge/mediapipe/solutions/vision/face_landmarker/python)
 - [TorchVision EfficientNet-B0 공식 문서](https://docs.pytorch.org/vision/stable/models/generated/torchvision.models.efficientnet_b0.html)
-#   y a w m 1  
+#   y a w m 1 
+ 
  # yawm1

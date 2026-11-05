@@ -1,0 +1,6 @@
+﻿input,actual,predicted,p_yawn,status
+C:\Users\Win11Pro\Documents\18_kdt_팀프로젝트_4차_4조~1108\yawn_project\data\mouth_wide_fixed\yawn\val\no_yawn\2004_a7ac664b_36d720dbec5e.png,no_yawn,yawn,0.5385717153549194,ok
+C:\Users\Win11Pro\Documents\18_kdt_팀프로젝트_4차_4조~1108\yawn_project\data\mouth_wide_fixed\yawn\val\yawn\413_c322b0ff_8854b17f6828.png,yawn,no_yawn,0.0004889818956144154,ok
+C:\Users\Win11Pro\Documents\18_kdt_팀프로젝트_4차_4조~1108\yawn_project\data\mouth_wide_fixed\yawn\val\yawn\414_77acd2ff_96d260188227.png,yawn,no_yawn,7.39861570764333e-05,ok
+C:\Users\Win11Pro\Documents\18_kdt_팀프로젝트_4차_4조~1108\yawn_project\data\processed\yawn\val\no_yawn\94_548cb1a3.jpg,no_yawn,unknown,,no_face
+C:\Users\Win11Pro\Documents\18_kdt_팀프로젝트_4차_4조~1108\yawn_project\data\processed\yawn\val\yawn\418_b7746f75.jpg,yawn,unknown,,no_face

@@ -1,0 +1,13 @@
+﻿input,actual,predicted,p_yawn,status
+C:\Users\Win11Pro\Documents\18_kdt_팀프로젝트_4차_4조~1108\yawn_project\data\mouth_wide_fixed\yawn\val\no_yawn\1986_2fbddcb0_94e510df9da5.png,no_yawn,yawn,0.7332145571708679,ok
+C:\Users\Win11Pro\Documents\18_kdt_팀프로젝트_4차_4조~1108\yawn_project\data\mouth_wide_fixed\yawn\val\no_yawn\1987_a23c8c4f_f79f2324ffe2.png,no_yawn,yawn,0.6423616409301758,ok
+C:\Users\Win11Pro\Documents\18_kdt_팀프로젝트_4차_4조~1108\yawn_project\data\mouth_wide_fixed\yawn\val\no_yawn\1988_59fb8be8_2f62500949b0.png,no_yawn,yawn,0.9297283887863159,ok
+C:\Users\Win11Pro\Documents\18_kdt_팀프로젝트_4차_4조~1108\yawn_project\data\mouth_wide_fixed\yawn\val\no_yawn\1990_8292351a_68e34478feee.png,no_yawn,yawn,0.9295610189437866,ok
+C:\Users\Win11Pro\Documents\18_kdt_팀프로젝트_4차_4조~1108\yawn_project\data\mouth_wide_fixed\yawn\val\no_yawn\2004_a7ac664b_36d720dbec5e.png,no_yawn,yawn,0.5028926730155945,ok
+C:\Users\Win11Pro\Documents\18_kdt_팀프로젝트_4차_4조~1108\yawn_project\data\mouth_wide_fixed\yawn\val\yawn\413_c322b0ff_8854b17f6828.png,yawn,no_yawn,0.00015117319708224386,ok
+C:\Users\Win11Pro\Documents\18_kdt_팀프로젝트_4차_4조~1108\yawn_project\data\mouth_wide_fixed\yawn\val\yawn\414_77acd2ff_96d260188227.png,yawn,no_yawn,8.193534449674189e-05,ok
+C:\Users\Win11Pro\Documents\18_kdt_팀프로젝트_4차_4조~1108\yawn_project\data\mouth_wide_fixed\yawn\val\yawn\516_62300794_a6ab94189690.png,yawn,no_yawn,0.2274361401796341,ok
+C:\Users\Win11Pro\Documents\18_kdt_팀프로젝트_4차_4조~1108\yawn_project\data\mouth_wide_fixed\yawn\val\yawn\539_3350cbca_95530784b842.png,yawn,no_yawn,0.006589930504560471,ok
+C:\Users\Win11Pro\Documents\18_kdt_팀프로젝트_4차_4조~1108\yawn_project\data\mouth_wide_fixed\yawn\val\yawn\625_0e99df6d_b6b2ff4d38b8.png,yawn,no_yawn,0.12424013763666153,ok
+C:\Users\Win11Pro\Documents\18_kdt_팀프로젝트_4차_4조~1108\yawn_project\data\processed\yawn\val\no_yawn\94_548cb1a3.jpg,no_yawn,unknown,,no_face
+C:\Users\Win11Pro\Documents\18_kdt_팀프로젝트_4차_4조~1108\yawn_project\data\processed\yawn\val\yawn\418_b7746f75.jpg,yawn,unknown,,no_face

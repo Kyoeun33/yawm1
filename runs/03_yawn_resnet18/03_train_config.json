@@ -1,0 +1,33 @@
+{
+  "task": "yawn",
+  "data": "data/mouth_wide_fixed",
+  "epochs": 25,
+  "batch": 16,
+  "lr": 0.0001,
+  "warmup": 2,
+  "patience": 7,
+  "device": null,
+  "workers": 0,
+  "seed": 42,
+  "name": "03_yawn_resnet18",
+  "threshold": 0.5,
+  "device_used": "cpu",
+  "data_metadata": {
+    "crop": {
+      "face_size": 224,
+      "output_size": 224,
+      "width_scale": 1.8,
+      "height_scale": 1.35,
+      "y_offset": 0.08,
+      "min_mouth_pixels": 6.0,
+      "detection_confidence": 0.5,
+      "presence_confidence": 0.5,
+      "algorithm": "mouth_square_v1"
+    },
+    "face_model_sha256": "64184e229b263107bc2b804c6625db1341ff2bb731874b0bcc2fe6544e0bc9ff",
+    "mediapipe_version": "1.2.2",
+    "source_manifest_sha256": "cf8e72f01489385f93a37652b7f683b6ce036d28c31e184edbd93cb39a01dfc6",
+    "manifest_sha256": "d0c0e60e6194b0cfec6eff0080cd27dde87bc8a423fb3ca13c9702270024c32e",
+    "complete": true
+  }
+}
